@@ -2,7 +2,8 @@
 
 .images{
     width: 45%;
-    height: 80%;
+    height: 45%;
+    border-radius: 50%;
     position: absolute;
     bottom: 0;
     right: 100px;
