@@ -5,9 +5,9 @@
     height: 30%;
     border-radius:50%;
     position: absolute;
-    top: -30px;
-    right: 100px;
-    margin-right: auto;
+    top: -20px;
+    right: 10px;
+    margin-right: 5%;
 }
 .introduction{
     margin-left: 8%;
